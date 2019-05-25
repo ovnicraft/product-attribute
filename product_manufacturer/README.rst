@@ -3,6 +3,11 @@ A module that adds manufacturers and attributes on the product form.
 
 You can now define the following for a product:
 -----------------------------------------------
+    * Manufacturer
+    * Country Manufacture
+    * Manufacturer Product Name
+    * Manufacturer Product Code
+    * Manufacturer Product URL
 
 Bugs are tracked on `GitHub Issues
 <https://github.com/OCA/{project_repo}/issues>`_. In case of trouble, please
